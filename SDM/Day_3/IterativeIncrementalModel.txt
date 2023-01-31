@@ -1,0 +1,37 @@
+
+In an Iterative Incremental model, initially, a partial implementation of a total system is constructed so that it will be in a deliverable state. Increased functionality is added. Defects, if any, from the prior delivery are fixed and the working product is delivered. The process is repeated until the entire product development is completed. The repetitions of these processes are called iterations. At the end of every iteration, a product increment is delivered.
+
+Iterative Incremental Model – Strengths
+
+The advantages or strengths of Iterative Incremental model are 
+
+You can develop prioritized requirements first.
+Initial product delivery is faster.
+Customers gets important functionality early.
+Lowers initial delivery cost.
+Each release is a product increment, so that the customer will have a working product at hand all the time.
+Customer can provide feedback to each product increment, thus avoiding surprises at the end of development.
+Requirements changes can be easily accommodated.
+
+
+
+Iterative Incremental Model – Weaknesses
+The disadvantages of the Iterative Incremental model are 
+
+Requires effective planning of iterations.
+Requires efficient design to ensure inclusion of the required functionality and provision for changes later.
+Requires early definition of a complete and fully functional system to allow the definition of increments.
+Well-defined module interfaces are required, as some are developed long before others are developed.
+Total cost of the complete system is not lower.
+
+
+
+When to Use Iterative Incremental Model?
+
+Iterative Incremental model can be used when 
+Most of the requirements are known up-front but are expected to evolve over time.
+The requirements are prioritized.
+There is a need to get the basic functionality delivered fast.
+A project has lengthy development schedules.
+A project has new technology.
+The domain is new to the team.

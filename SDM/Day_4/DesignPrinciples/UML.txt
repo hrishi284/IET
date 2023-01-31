@@ -1,0 +1,112 @@
+
+
+
+Agenda:
+
+	OOA & OOD
+	
+	
+	System Requirements
+	Analysis----OOAD
+	Design Phase:
+			Concept Visualization
+			
+			Notation:
+				
+				UML Diagrams
+					
+				  1.UseCase Diagram
+					:Coceptual visualized System diagram
+
+					1. System boundry
+					2. Actor
+					3. Usecase
+					4. Releationship with usecases
+
+
+				  2. Sequence Diagram
+				  3. Activity Diagram
+				  4. State Transition Diagram
+					  
+
+		Modules ( Use case) Package------
+			 1.Memberhip (Registration, login, verification)--consumer,staff, 
+									  seller, BOD, vendor
+			 2.Payment Processing--------------------
+			 3.Shopping Cart----------------------------------
+			 4.OrderProcesing------------------------------------
+                            5. -Billing--------------------------------------
+			 6.CRM (Customer Relationship Management)
+			 7.ProductCatalog
+			 8.Inventory
+			 9.BI
+					
+		
+	    Software : Logic   + data
+		       
+		       WebApplication + Business Logic + Data Access Logic--------> Database
+
+	    ER Diagram:
+			
+			Entity Relationship Diagram
+			Business Entities:
+			1.Product
+			2.Category
+			3.Customer
+			4.Vendor
+			5.Employee 
+			6.Item
+			7.Cart
+			8.Order
+			9.Payment
+			10.Credential
+			11.Shipments
+			
+						(one-to-many)
+						(many-to-many)
+						(one-to-one)
+						(many-to-one)
+
+			products---categories -----------------> many-to-one  
+			customes----orders    -----------------> one-to-many	
+			customers---credential-----------------> one-to-one
+			Employees---credentials----------------> one-to-one
+			Vendors-----Products   ----------------> many-to-many
+			Cart-----items	     ------------------> one-to-many
+			Item----Product      ------------------> many-to-one
+			Cart---Order         ------------------> one-to-one
+			orders------payment  ------------------> one-to-many
+			orders-----shipment  ------------------> one-to-one
+		
+	
+				
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

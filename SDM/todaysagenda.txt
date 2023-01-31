@@ -1,0 +1,113 @@
+
+Webfarm:
+	logical collection of servers.
+NLB:
+	Network load balancer
+Process:
+	Program under execution
+Thread:
+	Path of Execution
+Web Server:
+	a dedicated server hosting web site  and web services
+	a dedicatd server always listening of incomming http requests
+	and sending http response to client
+SDLC phases :
+	Requirement Gathering (Planning)
+	Analysis
+	Design
+	Development 
+	Testing
+	Deployment
+	Support
+two ways of SDLC:
+	Waterfall
+	Spiral
+Source Control tool:
+	Git
+Centralized code repository:Github
+Main:it is a default branch.
+git clone
+git status
+git add hello.txt
+git add .
+git commit -m 'sdfsadfjsalfsad"
+git push origin branch name
+git pull
+git config:
+	setting proxy
+	setting user.email
+	setting user.password
+	setting user.name
+FullStack:
+	Application build using multiple layers
+	front End, web layer, business layer, data access Logic layer, backend
+Database servers:
+	SQL Databases
+	(RDBMS)
+
+		mysql database server
+		oracle database server
+		microsoft SQL server
+
+	NonSQL databases
+	(Hiearchical)
+		mongo db database server
+		Dynamic DB
+
+	Database connectivity:
+		java-----jdbc------------------------.class files  .jar file
+		.net-----ado.net--------------------dll files (dynamic link libraries)
+		node js---- DB connector---------js files
+		C++-----odbc----------------------dll files
+
+	Binary executable files:
+		.exe file:self executable-------process is launched for each exe file
+
+		.dll file: shared library
+
+
+________________________________________________________________________
+
+Infrastructure (Hardware, firmware, operating system)
+
+Runtime Environmrnt Platform (Java runtime, Node JS runtime, .net runtime, python runtime,etc.)
+
+Software Service-------------------
+		(Applications)
+		General purpose Applications (People ready software)
+			notepad, paintbrush,  (.exe and .dll files)
+		Special purpose Applications
+			Eclipse, vs code, visual studio.net  (Development tools)
+			Browser application (.exe and .dll files)
+		System Management Applications
+			Task Manager
+			Eventviewer (.exe and .dll files)
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

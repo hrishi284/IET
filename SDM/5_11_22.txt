@@ -1,0 +1,23 @@
+
+Day 4:
+	Design
+		Database Design
+		Object Oriented Design
+		Online Application Design
+		Cloud based Application Deign
+		Design Principles
+		
+	Development
+		Choosing Developer Enviornment
+		Object Oriented Programming
+		Design Patterns
+		Clean code Strategy
+
+	Source Control Management
+		Centralized Code Repository
+		Team collaboration
+		GitHub Account
+		Using Git client
+		Git Commands
+		Managing Source code repository among team
+	
